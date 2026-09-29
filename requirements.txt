@@ -1,0 +1,23 @@
+# API
+fastapi
+uvicorn[standard]
+
+# Configuration
+pydantic
+pydantic-settings
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# LLM Providers
+groq
+google-genai
+
+# Rate limiting / caching
+redis
+
+# Testing
+pytest
+httpx
